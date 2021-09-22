@@ -294,21 +294,21 @@ a.text-blue:hover, a.text-blue:focus {
 }
 
 .bg-footer {
-  background-color: #202942 !important;
+  background-color: #1b140c !important;
 }
 
 .bg-soft-footer {
-  background-color: rgba(32, 41, 66, 0.1) !important;
-  border: 1px solid rgba(32, 41, 66, 0.1) !important;
-  color: #202942 !important;
+  background-color: rgba(27, 20, 12, 0.1) !important;
+  border: 1px solid rgba(27, 20, 12, 0.1) !important;
+  color: #1b140c !important;
 }
 
 .text-footer {
-  color: #202942 !important;
+  color: #1b140c !important;
 }
 
 a.text-footer:hover, a.text-footer:focus {
-  color: #181e30 !important;
+  color: #090704 !important;
 }
 
 .d-flex .flex-1 {
@@ -802,42 +802,42 @@ video:focus {
 }
 
 .btn-footer {
-  background-color: #202942 !important;
-  border: 1px solid #202942 !important;
+  background-color: #1b140c !important;
+  border: 1px solid #1b140c !important;
   color: #ffffff !important;
-  box-shadow: 0 3px 5px 0 rgba(32, 41, 66, 0.3);
+  box-shadow: 0 3px 5px 0 rgba(27, 20, 12, 0.3);
 }
 
 .btn-footer:hover, .btn-footer:focus, .btn-footer:active, .btn-footer.active, .btn-footer.focus {
-  background-color: #0f131f !important;
-  border-color: #0f131f !important;
+  background-color: black !important;
+  border-color: black !important;
   color: #ffffff !important;
 }
 
 .btn-soft-footer {
-  background-color: rgba(32, 41, 66, 0.1) !important;
-  border: 1px solid rgba(32, 41, 66, 0.1) !important;
-  color: #202942 !important;
-  box-shadow: 0 3px 5px 0 rgba(32, 41, 66, 0.3);
+  background-color: rgba(27, 20, 12, 0.1) !important;
+  border: 1px solid rgba(27, 20, 12, 0.1) !important;
+  color: #1b140c !important;
+  box-shadow: 0 3px 5px 0 rgba(27, 20, 12, 0.3);
 }
 
 .btn-soft-footer:hover, .btn-soft-footer:focus, .btn-soft-footer:active, .btn-soft-footer.active, .btn-soft-footer.focus {
-  background-color: #202942 !important;
-  border-color: #202942 !important;
+  background-color: #1b140c !important;
+  border-color: #1b140c !important;
   color: #ffffff !important;
 }
 
 .btn-outline-footer {
-  border: 1px solid #202942;
-  color: #202942;
+  border: 1px solid #1b140c;
+  color: #1b140c;
   background-color: transparent;
 }
 
 .btn-outline-footer:hover, .btn-outline-footer:focus, .btn-outline-footer:active, .btn-outline-footer.active, .btn-outline-footer.focus, .btn-outline-footer:not(:disabled):not(.disabled):active {
-  background-color: #202942;
-  border-color: #202942;
+  background-color: #1b140c;
+  border-color: #1b140c;
   color: #ffffff !important;
-  box-shadow: 0 3px 5px 0 rgba(32, 41, 66, 0.3);
+  box-shadow: 0 3px 5px 0 rgba(27, 20, 12, 0.3);
 }
 
 .btn {
@@ -1012,7 +1012,7 @@ button:not(:disabled) {
 
 .dropdown-footer .dropdown-menu .dropdown-item:hover, .dropdown-footer .dropdown-menu .dropdown-item.active, .dropdown-footer .dropdown-menu .dropdown-item:active, .dropdown-footer .dropdown-menu .dropdown-item.focus, .dropdown-footer .dropdown-menu .dropdown-item:focus {
   background-color: transparent;
-  color: #202942 !important;
+  color: #1b140c !important;
 }
 
 .btn-group .dropdown-toggle:after {
@@ -1211,9 +1211,9 @@ button:not(:disabled) {
 }
 
 .alert-footer {
-  background-color: rgba(32, 41, 66, 0.9);
+  background-color: rgba(27, 20, 12, 0.9);
   color: #ffffff;
-  border-color: #202942;
+  border-color: #1b140c;
 }
 
 .alert-footer .alert-link {
@@ -1222,8 +1222,8 @@ button:not(:disabled) {
 
 .alert-outline-footer {
   background-color: #ffffff;
-  color: #202942;
-  border-color: #202942;
+  color: #1b140c;
+  border-color: #1b140c;
 }
 
 .alert {
@@ -1667,7 +1667,7 @@ button:not(:disabled) {
 
 .social-icon.foot-social-icon li a {
   color: #adb5bd;
-  border-color: #283353;
+  border-color: #2d2114;
 }
 
 .back-to-top {
@@ -3702,17 +3702,17 @@ p {
 }
 
 .ribbon.ribbon-footer span {
-  background-color: #202942 !important;
+  background-color: #1b140c !important;
 }
 
 .ribbon.ribbon-footer span:before {
-  border-left-color: #0f131f;
-  border-top-color: #0f131f;
+  border-left-color: black;
+  border-top-color: black;
 }
 
 .ribbon.ribbon-footer span:after {
-  border-right-color: #0f131f;
-  border-top-color: #0f131f;
+  border-right-color: black;
+  border-top-color: black;
 }
 
 .ribbon {
@@ -4860,7 +4860,7 @@ p {
 /*         Footer                */
 /*===============================*/
 .footer {
-  background: #202942;
+  background: #1b140c;
   padding: 60px 0;
   position: relative;
   color: #adb5bd;
@@ -4922,7 +4922,7 @@ p {
 }
 
 .footer.footer-border, .footer.footer-bar {
-  border-top: 1px solid #283353;
+  border-top: 1px solid #2d2114;
 }
 
 .footer.footer-bar {

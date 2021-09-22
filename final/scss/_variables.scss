@@ -46,7 +46,8 @@ $bg-overlay-white:          rgba($white, 0.5);
 $shadow:                    0 0 3px rgba($dark,.15);
 $shadow-md:                 0 5px 13px rgba($dark, .2);
 $shadow-lg:                 0 10px 25px rgba($dark, 0.15);
-$footer:                    lighten($black, 6%);
+// $footer:                    lighten($black, 6%);
+$footer:                    #1b140c;
 
 //Color Picker/Switcher
 $default:                   #2f55d4;
